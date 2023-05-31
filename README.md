@@ -1,4 +1,4 @@
-# TermDoom - A Basic 2D Doom That Plays in the Terminal
+# TermDoom - A Basic 2D Doom In Terminal
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
